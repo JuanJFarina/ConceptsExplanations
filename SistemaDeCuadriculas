@@ -1,0 +1,129 @@
+Cada página web está formada por cuadrados y rectángulos. Estos se ubican dentro de un esquema de cuadrícula abarcativo. Estos cuadrados 
+y rectángulos:
+
+Organizan el contenido de la página
+
+Disponen alineación y orden
+
+Crean la estructura básica de la interfaz de usuario
+
+Un sistema de cuadrícula es una estructura de líneas y columnas invisibles para el usuario que mantienen unidos los elementos y 
+contenidos del diseño de una página web. Proporcionan a los diseños un ritmo coherente y limitan la toma de decisiones.
+
+Están formados por                                                           
+
+Columnas 
+
+Filas
+
+Canalones
+
+Módulos 
+
+Márgenes 
+
+Columnas
+12 en una computadora de escritorio,
+
+8 en una tableta y
+
+4 en un dispositivo móvil. 
+
+La mayoría de las cuadrículas tienen 60- px de ancho de columna. 
+
+Image of columns
+
+Image of row
+Canalón
+Los canalones son el espacio negativo entre columnas. El tamaño común del canalón es de 20 px. 
+
+Image of gutters
+Módulos o módulos de contenido
+La intersección de filas y columnas crea unidades de espacio. Cada elemento de diseño (texto, imágenes, botones, etc.) se ajusta a 
+módulos. 
+
+
+Image of modules or content modules
+Margen
+El margen es el espacio negativo entre el borde externo de la columna y el marco.  
+
+
+Image of margins
+Tipos de cuadrículas
+Different type of grids such as column grid, modular grid, and hierarchial grid
+Cuadrículas de bloques
+Las cuadrículas de bloques son la estructura de cuadrícula más sencilla: un área rectangular grande que ocupa la mayor parte del espacio 
+dentro de un formato. Consisten en una sola columna que puede incluir uno o varios elementos organizados verticalmente, rodeados por 
+márgenes. Se utilizan para bloques continuos de texto o imágenes grandes de ancho completo, como imágenes de portada o de héroe.  
+
+Image of a block grid
+Cuadrícula de columnas: dividida e igual a la vez
+Las cuadrículas de columnas son las más utilizadas por los diseñadores gráficos y web. Se componen de varias columnas, que se utilizan 
+principalmente para organizar varios elementos en columnas. 
+
+
+Example of column grids with a specified content width
+Tradicionalmente, el ancho de columna de un sistema de diseño no cambia, pero el número de columnas sí: 12 en una computadora de 
+escritorio, 8 en una tableta y 4 en dispositivos móviles. Las cuadrículas de columnas pueden tener tan solo dos columnas, sin límite 
+absoluto. 
+
+Cuadrícula modular: simetría perfecta
+Ayuda a presentar múltiples elementos simultáneamente para facilitar el acceso cuando hay varios elementos que organizar en el diseño 
+web. Las pantallas de inicio de celulares en las que se muestra toda la colección de aplicaciones o sitios web de comercio electrónico, 
+que presentan colecciones de inventarios en sus páginas de categoría, son casos de uso comunes para cuadrículas modulares. 
+
+Image of a modular grid.
+Cuadrículas jerárquicas
+Las cuadrículas jerárquicas también se describen como "de estilo libre", cuyos elementos se colocan "espontáneamente" entre las columnas 
+y filas de la cuadrícula. Se refiere a cualquier cuadrícula irregular que se adapte a necesidades específicas de contenido. 
+
+
+Example for Hierarchical grids
+Cuadrículas base
+Se utilizan cuadrículas base para fijar el interlineado entre una línea de texto y la siguiente para mantener la coherencia. Son más 
+fáciles de organizar, crean un ritmo vertical y son estéticamente agradables. Una hoja de papel reglado, como la que usted, 
+probablemente, utilizó en la escuela, es un ejemplo sencillo de una cuadrícula base. 
+
+Grid system example 
+La importancia de las cuadrículas
+Las cuadrículas ayudan a dar forma y organizar el diseño web. No sabría dónde colocar los elementos de diseño si no los tuviera. 
+Necesitamos que creen una buena experiencia de usuario para que pueda navegar por un sitio web y encontrar lo que necesita. Las 
+cuadrículas también son útiles en el diseño adaptativo. Mientras que en una página de aterrizaje para computadoras de escritorio se 
+pueden utilizar varias columnas para distribuir el texto y las imágenes, el diseño debe ser lo suficientemente flexible como para 
+reducirse a 2 o 3 columnas en una tableta y a 1 columna en un dispositivo móvil. La cuadrícula móvil se apila como una cuadrícula 
+modular de 1 columna. 
+
+Image of a one column modular grid
+Pautas para el uso de cuadrículas
+Ahora, vamos a revisar cómo utilizar cuadrículas en el diseño web. 
+
+Antes de empezar a diseñar, piense en la cuadrícula
+Cree una cuadrícula para su página de inicio después de que haber realizado la investigación y, tal vez, incluso, algunos wireframes de 
+baja fidelidad en papel. Es un proceso de un solo paso. Una vez completado, no tendrá que volver a pensar en ello para todas las páginas 
+de inicio posteriores. Piense en la cuadrícula antes de empezar a diseñar, en lugar de dejarlo para el final e intentar adaptar su 
+diseño a una cuadrícula. Cuando sea necesario, no tenga miedo de desviarse de la cuadrícula. Es posible que los diseñadores 
+principiantes se sientan limitados al usar una cuadrícula, pero no deberían hacerlo. No pasa nada si rompe la cuadrícula después de 
+haberla creado. 
+
+No tema al espacio en blanco
+En el diseño web, es fundamental equilibrar espacios en blanco y espacios negativos. No se sienta obligado a llenar todos los espacios 
+disponibles en el diseño de una página de inicio. Considere la posibilidad de utilizar márgenes grandes y un espaciado razonable entre 
+secciones de contenido para dar al usuario la oportunidad de respirar y pausar mientras se desplazan por el sitio web. 
+
+Considere usar el sistema de cuadrículas 960
+El sistema de cuadrículas 960 es un intento de simplificar el flujo de trabajo de desarrollo web proporcionando dimensiones de uso común 
+basadas en una ancho de 960 píxeles. Hay dos opciones: 12 columnas o 16 columnas.
+
+La cuadrícula 960 se organiza de la siguiente manera:
+
+El ancho total es de 960 px.
+
+Utilice un máximo de 12 columnas, cada una de 60 px de ancho.
+
+Para un espaciado total de 20 px, utilice un espaciado de 10 px a la izquierda y a la derecha de cada columna.
+
+940 px es el área de contenido total.
+
+El sistema de cuadrícula de 12 columnas ofrece una gran flexibilidad. Este es un ejemplo de cómo se puede utilizar la cuadrícula de 12 
+columnas para agregar contenido a un esquema de 3 columnas. Cuanto más use una cuadrícula, mejor podrá percibir que es una guía que 
+puede ayudarlo a diseñar mejor y más rápido.
