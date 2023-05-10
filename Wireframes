@@ -1,0 +1,113 @@
+Introducción
+
+En una lección anterior, revisó los pasos para crear un wireframe para la página de inicio de pedidos en línea para la versión móvil del 
+sitio web de Little Lemon. En este ejercicio, creará el wireframe de la página de detalles del producto.
+
+Little lemon test view 
+Nota: En los wireframes, no se incluyen colores ni imágenes. Es solo un plano. Todo lo que importa aquí es el esquema y la 
+funcionalidad.
+
+Instrucciones
+Para crear el wireframe, debe completar los siguientes pasos:
+
+Pasos 1-5: Configurar el marco, la cuadrícula y la ubicación del contenido.
+
+Pasos 6-12: Diseñar el contenido. 
+
+Comencemos  
+
+Paso 1: Reunir los requisitos
+Aquí puede escribir o esbozar lo que necesita para ir a la página, como:
+
+Barra de navegación
+
+Foto del plato
+
+Tiempo de entrega
+
+Personalizar el plato
+
+Número de platos a pedir
+
+Botón Añadir a la cesta
+
+Paso 2:  Crear un marco y una cuadrícula
+Abra un nuevo archivo de Figma y cree un marco.
+
+Seleccione iPhone 13 Pro Max – 1.
+
+Añada una cuadrícula de 4 columnas con un margen de 25.
+
+
+Count parameter in columns
+
+Column grid with components
+Paso 3: Bloque de contenidos 
+Construya una guía de bloques de contenido, con rectángulos básicos para cada bloque.
+
+
+Location of components on column grid
+Paso 4
+Mueva estas guías fuera del marco.
+
+Column grid with location plan of components
+Paso 5
+Reducir el ancho de los rectángulos de guía. 
+
+Conserve el texto, ya que proporciona un esquema de todo el contenido del wireframe. Se utilizará como referencia al diseñar dentro del 
+marco.  
+
+Column grid with location layout of components
+Paso 6: Título/Barra de navegación   
+Contenido
+
+Añada un ícono de menú. Una forma de navegar a la pantalla de inicio es utilizar un menú de hamburguesa para abrir un menú lateral como 
+he utilizado en este ejemplo. Esto ayuda al usuario a navegar fácilmente a otras páginas del sitio.
+
+Nota: No es necesario que la navegación sea detallada, ya que suele ser secundaria al wireframe.
+
+Agregue un logo para que los usuarios reconozcan en qué sitio están.
+
+Agregue una cesta de compras, ya que es un servicio de entrega en línea. Cuando se toca la cesta, se abre una ventana emergente que 
+permite que los usuarios controlen y modifiquen lo que quieren comprar. También agrega una opción para pagar.  
+
+Nota: Las imágenes se representan como un rectángulo atravesado por una X.  
+
+Column grid with located components
+Paso 7: Ubicaciones
+Añada una ubicación para la imagen de un plato como un rectángulo con una X.
+
+Y añada una ubicación para el botón de retroceso, para que los usuarios puedan volver a la página anterior.
+
+Location of photo on column grid
+Paso 8: Descripción 
+Agregue un subtítulo para el nombre de la comida y su precio.
+
+Agregue texto principal para dar una descripción.  
+
+Nota: El wireframe no tiene por qué incluir detalles en este punto, pero se añade con fines demostrativos. 
+
+Location or description on column grid
+Paso 9: Entrega
+Agregue una ubicación de ícono para un vehículo. 
+
+Añada una hora general de entrega.
+
+Agregue un menú desplegable en caso de que un cliente requiera otra hora para la entrega.      
+
+Location of delivery on column grid
+Paso 10: Personalización
+Agregue texto para informar al usuario que puede añadir elementos a su plato.
+
+Enumere las opciones y el precio.  
+
+Location of the customization component on column grid
+Paso 11: Número de platos solicitados 
+ Añada signos de más y menos para que los usuarios puedan sumar o restar el número del platos que quieren pedir.  
+
+Location of amount on column grid
+Paso 12: Agregar al pedido 
+
+Por último, añada un botón que los usuarios puedan tocar para añadir un plato a su pedido. 
+
+Y agregue una ubicación de texto que muestre la cantidad total del plato dentro de este botón.  
