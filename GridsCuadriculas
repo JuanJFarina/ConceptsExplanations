@@ -1,20 +1,26 @@
-En un video anterior, aprendió a crear una cuadrícula para un escritorio en Figma, ahora vamos a crear cuadrículas para tabletas y teléfonos. Para empezar a crear una nueva cuadrícula, pulse F en el teclado para abrir el menú del marco en la barra lateral derecha. A continuación, abra el menú de la tableta y seleccione un iPad mini. 
+En un video anterior, aprendió a crear una cuadrícula para un escritorio en Figma, ahora vamos a crear cuadrículas para tabletas y 
+teléfonos. Para empezar a crear una nueva cuadrícula, pulse F en el teclado para abrir el menú del marco en la barra lateral derecha. A 
+continuación, abra el menú de la tableta y seleccione un iPad mini. 
 
 
 Frame menu with tablet menu
-Seleccione el marco del escritorio y pase el mouse justo a la izquierda de los íconos de la cuadrícula. Aparecerá el ícono de apilación tipo sándwich. Ahora puede pulsar Ctrl o Shift en el teclado y hacer clic para seleccionar la cuadrícula y, a continuación, copiarla y pegarla en el marco de la tableta.     
+Seleccione el marco del escritorio y pase el mouse justo a la izquierda de los íconos de la cuadrícula. Aparecerá el ícono de apilación 
+tipo sándwich. Ahora puede pulsar Ctrl o Shift en el teclado y hacer clic para seleccionar la cuadrícula y, a continuación, copiarla y 
+pegarla en el marco de la tableta.     
 
 Layout grid screen
 
 Image of entire grid system of desktop and ipad mini
 
-Esto lleva todo el sistema de cuadrícula al marco de la tableta. Tal vez se pregunte: ¿Cómo se diseña un esquema de tableta con columnas tan pequeñas? Entonces, cambiemos la cuadrícula de 12 columnas por una de 8 columnas. Ahora, hay mucho más espacio para maniobrar. 
+Esto lleva todo el sistema de cuadrícula al marco de la tableta. Tal vez se pregunte: ¿Cómo se diseña un esquema de tableta con columnas 
+tan pequeñas? Entonces, cambiemos la cuadrícula de 12 columnas por una de 8 columnas. Ahora, hay mucho más espacio para maniobrar. 
 
 Columns screen in Figma
 
 Column grid example
 
-La cuadrícula está lista para que empieces a diseñar. A continuación, vamos a crear nuestro sistema de cuadrícula de teléfono siguiendo los mismos pasos. Debe empezar por seleccionar un marco para teléfono. 
+La cuadrícula está lista para que empieces a diseñar. A continuación, vamos a crear nuestro sistema de cuadrícula de teléfono siguiendo 
+los mismos pasos. Debe empezar por seleccionar un marco para teléfono. 
 
 
 iPhone menu screen in Frame
@@ -26,12 +32,23 @@ A continuación, copie la cuadrícula y cambie la columna a una cuadrícula de 4
 Columns screen in Frame
 
 Horizontal and vertical responsive system on iPhone 13.
-Ha creado un sistema de cuadrículas adaptativo horizontal y vertical. También puede ampliar estos marcos y escalarán de manera acorde. Esto es solo el principio. Las cuadrículas pueden ser más avanzadas a medida que trabaje con mayor detalle en dispositivos específicos. Sin embargo, esto es suficiente para ayudarle a empezar su primer proyecto adaptativo. 
+Ha creado un sistema de cuadrículas adaptativo horizontal y vertical. También puede ampliar estos marcos y escalarán de manera acorde. 
+Esto es solo el principio. Las cuadrículas pueden ser más avanzadas a medida que trabaje con mayor detalle en dispositivos específicos. 
+Sin embargo, esto es suficiente para ayudarle a empezar su primer proyecto adaptativo. 
 
 Ocultar la cuadrícula
-Si desea ver el marco sin el sistema de cuadrícula, haga clic en el porcentaje de zoom situado en la esquina superior derecha de la pantalla. Se abrirá el menú Ajustes de vista, donde hay una opción para activar o desactivar las cuadrículas. También puede usar los atajos de teclado para desactivar las cuadrículas de esquema. En un Mac, es command+G y, en Windows, es Control+Shift+4. Al repetir la misma combinación, se mostrará la cuadrícula. 
+Si desea ver el marco sin el sistema de cuadrícula, haga clic en el porcentaje de zoom situado en la esquina superior derecha de la 
+pantalla. Se abrirá el menú Ajustes de vista, donde hay una opción para activar o desactivar las cuadrículas. También puede usar los 
+atajos de teclado para desactivar las cuadrículas de esquema. En un Mac, es command+G y, en Windows, es Control+Shift+4. Al repetir la 
+misma combinación, se mostrará la cuadrícula. 
 
 Coherencia en UI
-Cuando las dimensiones siguen las mismas reglas, se obtiene automáticamente una UI más coherente. Para mejorar la coherencia, puede modificar las propiedades de desplazamiento para alinearlas con la cuadrícula de 8 puntos. Un desplazamiento es cuánto puede mover las capas en un marco utilizando las teclas de flecha. Hay dos tipos de desplazamiento: pequeño y grande. El desplazamiento pequeño me permite mover una capa en incrementos de 1 píxel utilizando las teclas de flecha del teclado. Se accede al desplazamiento grande utilizando las teclas Shift y de flecha. De manera predeterminada, Figma lo ha fijado en 10 píxeles. 
+Cuando las dimensiones siguen las mismas reglas, se obtiene automáticamente una UI más coherente. Para mejorar la coherencia, puede 
+modificar las propiedades de desplazamiento para alinearlas con la cuadrícula de 8 puntos. Un desplazamiento es cuánto puede mover las 
+capas en un marco utilizando las teclas de flecha. Hay dos tipos de desplazamiento: pequeño y grande. El desplazamiento pequeño me 
+permite mover una capa en incrementos de 1 píxel utilizando las teclas de flecha del teclado. Se accede al desplazamiento grande 
+utilizando las teclas Shift y de flecha. De manera predeterminada, Figma lo ha fijado en 10 píxeles. 
 
-Cambiémoslo a 8 puntos. Seleccione las preferencias en el ícono de Figma, en la esquina superior izquierda, y haga clic en Nudge Amount (Tamaño de desplazamiento) para establecer el valor de desplazamiento grande en 8 puntos. Ya está listo para explorar la creación de más cuadrículas y trabajar con la propiedad de desplazamiento.
+Cambiémoslo a 8 puntos. Seleccione las preferencias en el ícono de Figma, en la esquina superior izquierda, y haga clic en Nudge Amount 
+(Tamaño de desplazamiento) para establecer el valor de desplazamiento grande en 8 puntos. Ya está listo para explorar la creación de más 
+cuadrículas y trabajar con la propiedad de desplazamiento.
