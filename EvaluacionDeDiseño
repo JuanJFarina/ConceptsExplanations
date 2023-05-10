@@ -1,0 +1,139 @@
+Los 10 principios del buen diseño de Rams
+Un buen diseño es innovador
+Ya sea que esté implementando cambios o haciendo algo de una manera distinta, formulando nuevas ideas o haciendo mejoras en los diseños 
+existentes y trabajando con nuevas tecnologías, todas ofrecen multitud de oportunidades para que sea innovador en un diseño. 
+
+Un buen diseño hace que un producto sea útil
+No importa lo impresionante que se vea un producto, si es prácticamente inutilizable, se vuelve completamente inútil. Los productos no 
+son obras de arte para admirar. Están para servir a un propósito y resolver un problema. 
+
+El buen diseño es estético
+Los artículos hermosos suelen hacernos sentir cómodos. Si un producto es hermoso, puede que se vuelva más propenso a usarlo y que desee 
+tenerlo. Algunas personas pueden estar en contra de este punto, ya que se puede tener una idea propia y subjetiva de lo que es hermoso, 
+y algunos elementos bien diseñados dan prioridad a la utilidad sobre la belleza. Independientemente de su gusto, puede querer que las 
+cosas que lo rodeen sean hermosas, independientemente de cómo conciba la belleza. 
+
+Un buen diseño hace que un producto sea comprensible
+Por ejemplo, las manijas en las puertas que no indican si hay que empujar o tirar de ellas, o los grifos que no indican si son de agua 
+fría o caliente, confunden al usuario. Lo contrario de esto es un producto que se comprende al instante que es completamente 
+autoexplicativo, y que comunica de qué se trata, para qué sirve y cómo usarlo. Esto evita que el usuario rompa el producto o pierda 
+tiempo leyendo los manuales de instrucciones. 
+
+Un buen diseño es discreto
+Un producto molesto es un producto excesivamente diseñado. Los productos que tienden a fallar son aquellos creados con el diseñador en 
+mente o con presunciones de quién podría ser el usuario o cómo podrían usarlo. Los mejores productos permiten al usuario hacer 
+exactamente lo que quiere. Estos productos también deben ayudar al usuario a completar las tareas que se proponga de forma eficaz y 
+feliz. El diseño no debe obstaculizar el proceso intuitivo de la persona. 
+
+El buen diseño es honesto
+¡Un buen diseño no tiene trucos! No pretende ser algo que no es, y no trata de manipular para que lo compre haciendo promesas que no se 
+pueden mantener. Siempre debe tener en cuenta los intereses del usuario, por lo que no debe tratar de mentirle o intentar ser algo que 
+no es. 
+
+Un buen diseño es duradero
+El diseño siempre debe ser minucioso hasta el último detalle y evita estar a la moda, lo que significa que nunca parece viejo ni 
+obsoleto.
+
+Un buen diseño es minucioso hasta el último detalle
+Un buen diseño debe estar orientado al detalle y no dejar nada al azar. Se deben considerar todos los aspectos del diseño y todos los 
+elementos deben ser parte de ese diseño. Los productos deben diseñarse con cuidado, minuciosidad y preocupación por el usuario previsto. 
+
+Un buen diseño es respetuoso con el medioambiente
+La contaminación puede surgir de recursos desperdiciados durante toda la vida útil de un producto. El diseño no debería ser un 
+despilfarro y debería ahorrar recursos siempre que pueda, de forma tanto física como digital. 
+
+Un buen diseño es mínimo
+El diseño siempre debe ser intencional. Se debe excluir cualquier cosa que no tenga un propósito para el usuario. Con menos desorden, un 
+diseño logrará brindar más claridad al usuario. 
+
+
+La heurística de Jakob Nielsen: 10 principios de usabilidad para mejorar el diseño de UI
+Visibilidad del estado del sistema
+Explore su smartphone. Justo después de que la pantalla se enciende, le informa sobre la batería y si tiene una conexión Wi-Fi, los 
+mensajes recibidos, las llamadas perdidas y mucho más. Imagine lo inseguro que se sentiría si faltara esta información. El sistema 
+comunica su estado y ayuda a los usuarios a tomar decisiones mejor informadas mediante señales, íconos e indicadores. 
+
+Correspondencia entre el sistema y el mundo real
+Los usuarios pueden hacer suposiciones sobre el funcionamiento de un sistema según sus experiencias previas con sistemas similares. 
+Puede ayudarlos a superar las molestias iniciales utilizando el lenguaje con el que están familiarizados. 
+
+Control y libertad para el usuario
+Los espacios digitales, tal como los espacios físicos, requieren salidas rápidas de emergencia. Los usuarios suelen seleccionar 
+funciones del sistema por accidente y precisan contar con una forma marcada claramente para salir de la posición no deseada sin 
+necesidad de un diálogo extenso. Por lo tanto, fomente el uso de funciones de deshacer y rehacer. 
+
+Coherencia y estándares
+La coherencia es la clave. El botón "Enviar" debe tener el mismo aspecto en cualquier página de un sitio. Si muestra información en un 
+formato determinado en una página, debe tener el mismo aspecto en todas las páginas. 
+
+Prevención de errores
+Un diseño meticuloso que impide que surja un problema es aún mejor que producir mensajes de error buenos. Elimine las condiciones que 
+puedan provocar errores en su diseño, o búsquelas y ofrezca a sus usuarios una opción de confirmación para que puedan tomar una decisión 
+informada antes de tocar o seleccionar algo. 
+
+Reconocer en vez de recordar
+Permita que sus usuarios reconozcan la información en la interfaz de usuario en lugar de esperar que la recuerden o la rememoren. En 
+pocas palabras: no haga que sus usuarios se esfuercen más de lo necesario. Haga que su navegación sea lo más clara, detallada y directa 
+posible. Ofrézcales sugerencias, recuérdeles cuándo hay que hacer algo urgente y notifíqueles cuando se haya cambiado una pantalla o un 
+proceso. 
+
+Flexibilidad y eficiencia de uso
+En pocas palabras, su sistema debe estar diseñado para que puedan utilizarlo tanto usuarios experimentados como inexpertos. Considere 
+diseñar un sistema en el que un nuevo usuario pueda descubrir la forma de realizar una tarea sin conocer ningún atajo. Sin embargo, 
+también piense en diseñar su sistema de tal manera que un usuario experimentado pueda utilizar atajos para completar la acción de forma 
+rápida y eficaz. 
+
+Diseño estético y minimalista.
+Cause una fantástica primera impresión Los usuarios notan la estética o cuán visualmente atractivo es su sistema transcurridos 50 
+milisegundos desde que llegan a una página, esto es, diez veces más rápido de lo que tardan en leerla. Esto significa que debe 
+asegurarse de establecer y reforzar la identidad de marca y la credibilidad de su sistema. 
+
+Ayude a los usuarios a reconocer y a diagnosticar los errores, así como a recuperarse
+Un buen mensaje de error debe ser amable, fácil de entender, preciso, constructivo, claramente visible, así como demandar el menor 
+tiempo posible para solucionar el problema, y educar a sus usuarios. 
+
+Ayuda y documentación
+Es preferible que su sistema pueda utilizarse sin documentación. Sin embargo, es importante que este tipo de información sea fácil de 
+encontrar, centrada en la tarea del usuario, que incluya los pasos reales que debe dar y que no sea demasiado extensa. 
+
+Las 8 reglas doradas de diseño de interfaz de Ben Shneidermann
+Esfuércese por lograr coherencia
+La coherencia es fundamental para mantener la uniformidad en todo el sitio, ya sea la distribución, el tamaño del botón, el código de 
+colores o el tono utilizado al redactar la página. La coherencia le permitirá establecer la identidad y evitar que los usuarios salgan 
+del sitio. 
+
+Permita que los usuarios frecuentes utilicen accesos directos
+Considere permitir que los usuarios accedan a todas las áreas de su sitio web con unos pocos clics. Para ello, debe crear una buena 
+jerarquía en el menú y dejar las cosas claras. Piense en la posibilidad de incluir funciones para usuarios avanzados y principiantes, 
+como atajos de teclado o capacidades de macros. 
+
+Ofrezca retroalimentación informativa
+Si sus usuarios han completado o están realizando actividades en su sitio web, lo mejor es proporcionarles información lo antes posible 
+para que puedan comprender en qué punto del sistema se encuentran. 
+
+Diseñe diálogos que puedan tener un cierre
+Todas las interacciones deben tener un principio, un nudo y un desenlace. Una vez completada una tarea, puede transmitirles tranquilidad 
+a sus usuarios proporcionándoles retroalimentación y opciones bien definidas para el siguiente paso, si corresponde. ¡No los haga 
+adivinar! 
+
+Ofrezca un manejo sencillo de los errores
+Se debe diseñar una interfaz de manera que se eliminen tantos errores como sea posible. Si algo sale mal, el sistema debe facilitar a 
+los usuarios la comprensión y resolución del problema. Una buena idea es mostrar notificaciones de error claras y sugerencias 
+descriptivas para resolver el problema. Estos son ejemplos de formas sencillas de tratar los errores del sistema. 
+
+Permita anular acciones fácilmente
+Descubrir que existe la opción de "deshacer" después de cometer un error es un gran alivio. Sus usuarios se sentirán menos ansiosos y 
+estarán más dispuestos a explorar opciones si saben que existe una forma sencilla de deshacer un error. Esta regla se aplica a cualquier 
+acción, secuencia de pasos o entrada de datos en su sistema. Esto puede variar desde un solo botón hasta un conjunto de acciones. 
+
+Fomente el locus de control interno
+Es esencial dar a los usuarios control y libertad para que se sientan en control del sistema y no al revés. Como diseñador, intente 
+evitar las sorpresas, interrupciones y todo aquello que los usuarios no hayan solicitado. Los usuarios deben ser los que inicien las 
+acciones. 
+
+Reduzca la carga de memoria a corto plazo
+Como usuarios, nuestra capacidad de atención es limitada, así que cualquier cosa que usted pueda hacer para facilitar el trabajo de sus 
+usuarios es de gran beneficio. Es posible que los usuarios prefieran reconocer la información en lugar de recordarla. Intente que las 
+interfaces sean sencillas y coherentes y siga patrones, estándares y convenciones. Esto puede contribuir a mejorar el reconocimiento y 
+la facilidad de uso. Dependiendo de los objetivos de sus usuarios, puede agregar varias funciones para ayudarlos. En un entorno de 
+comercio electrónico, por ejemplo, se puede presentar una lista de artículos vistos o comprados recientemente. 
