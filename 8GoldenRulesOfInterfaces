@@ -1,0 +1,25 @@
+by Ben Schneiderman
+
+1. Strive for consistency - Consistency in interface design is critical to user comprehension and ease of use. The interface should be 
+consistent with other applications, and the language, terminology, layout, and function should be consistent within the application.
+
+2. Enable frequent users to use shortcuts - Power users will want to optimize their experience, so designers should provide a way for them 
+to do this. A good example of this is keyboard shortcuts that can be customized.
+
+3. Offer informative feedback - Users need to understand the result of their actions. To achieve this, the system should provide immediate 
+and informative feedback, such as changing the color of a button or displaying a message.
+
+4. Design dialogs to yield closure - The user should be clear on the result of a decision, such as "Are you sure you want to delete this 
+file?". The user should have a clear path to get to the next step or take another action.
+
+5. Offer simple error handling - The system should be designed to handle errors gracefully and simply. For instance, highlighting fields 
+that require attention with a specific color, or displaying a tooltip when hovering over the field.
+
+6. Permit easy reversal of actions - Users should be able to undo an action if they make a mistake. This can be achieved through a simple 
+button, undo stack or an action history that allows users to easily track changes.
+
+7. Support internal locus of control - The user should feel in control of the system. This can be achieved by providing buttons, sliders, 
+or checkboxes to allow users to manipulate data.
+
+8. Reduce short-term memory load - Users should not be asked to remember information from one page or action to another. A good example is 
+saving user data so it is pre-populated in forms or saving the user’s previous search history.
