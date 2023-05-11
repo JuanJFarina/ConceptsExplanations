@@ -1,0 +1,84 @@
+Los sistemas de diseño son colecciones de componentes, principios y pautas reutilizables que cambian constantemente y que proporcionan a 
+diseñadores y desarrolladores un lenguaje común para un diseño coherente de productos y páginas web. Un sistema de diseño es un conjunto 
+de entregables que evolucionan junto con el producto, las herramientas y los avances tecnológicos. Contiene elementos tangibles e 
+intangibles como patrones, componentes, pautas y otras herramientas para diseñadores y desarrolladores.
+
+Además, contienen algunos elementos abstractos, como valores de marca, formas compartidas de trabajar, modos de pensar y creencias 
+compartidas. Por lo tanto, en realidad, hay dos partes que son los Elementos reutilizables y los Valores compartidos.
+
+Elementos reutilizables
+Los elementos reutilizables son consejos sobre cómo aplicar los elementos conjuntamente, es decir, el por qué y el cómo. La siguiente 
+imagen muestra lo que implica crear un sistema de diseño. 
+
+
+Sketch for UX/UI design displaying identity, principles, best practices to form the components and patterns
+¿Qué contienen los sistemas de diseño?
+El objetivo principal de un sistema de diseño es facilitar el trabajo de los equipos de diseño. La primera pregunta no es "¿Qué debo 
+incluir en mi sistema de diseño?" Es, más bien, "¿Quién lo utilizará y cómo?". Una vez definido un objetivo y una idea de lo que ya 
+existe en la empresa y preguntas como:
+
+¿Qué les está funcionando y qué no? 
+
+¿Cuánta experiencia tienen los equipos en este tema? 
+
+¿Cuáles son las herramientas existentes?
+
+han sido abordadas y respondidas, quedará más claro dónde empezar a compilar el sistema de diseño. 
+
+Valores compartidos
+La alineación de los equipos de diseño en torno a un conjunto estándar de objetivos es fundamental. Ayudará a crear una visión y puede 
+garantizar que todos se dirijan a la misma dirección. Estos objetivos cambiarán con el paso del tiempo, lo cual es natural. Por lo 
+tanto, los cambios en el sistema de diseño deben comunicarse ampliamente. En cuanto a los valores, son grandes ideales que guiarán las 
+elecciones de acuerdo con los objetivos de la marca. Asegúrese de que los diseños no se desvíen de los valores fundamentales. Además de 
+estos valores de marca y producto, también debe definir valores de equipo que ayuden a unir a cada miembro del equipo, que incluye 
+diseñadores, desarrolladores y partes interesadas, en torno a una forma de pensar compartida. Estos valores pueden incluir lo siguiente: 
+
+Principios de diseño
+Los principios de diseño son afirmaciones orientativas que ayudan a los equipos a alcanzar el objetivo del producto a través del diseño. 
+Aunque los principios de diseño no son el componente más común del sistema de diseño, deben tenerse en cuenta. Un conjunto de principios 
+de diseño significativos establece una base sólida y guía al equipo en la creación y la implementación continua de un sistema de diseño. 
+
+ Un ejemplo de ello es el enfoque de los principios de diseño de Material Design de Google. Es minimalista y se centra en lo que 
+distingue a Material Design como sistema de diseño universal. Sus principios rectores son: 
+
+El material es la metáfora.
+
+Es audaz, gráfico e intencional.
+
+El movimiento da sentido. 
+
+ Haga clic en el siguiente enlace para explorar el enfoque de Material Design de Google con más detalle.
+
+ https://material.io/design/introduction#principles  
+
+Identidad de marca y lenguaje
+Los elementos visibles de una marca, como el color, el diseño y el logo, que identifican y distinguen la marca en las mentes de los 
+consumidores se denominan identidad de marca. Estos elementos de marca requieren algunas reglas, que servirán de gramática y unificación 
+del sistema, por ejemplo, lo se debe y no se debe hacer y los "buenos ejemplos" de uso del producto como se muestra en la siguiente 
+imagen: 
+
+
+Example of do's and don'ts in brand design
+Esto garantizará que los equipos de diseño utilicen las "combinaciones adecuadas" de este lenguaje, que es lo que hace que la marca sea 
+tan distintiva y reconocible. Piense en algunas marcas populares y en lo que las hace tan distintas y reconocibles. 
+
+Componentes y patrones
+El sistema de diseño se basa en componentes y patrones. Los patrones son las instrucciones de construcción que permiten utilizar estos 
+componentes de forma lógica y coherente en todos los productos. En cambio, un componente contiene documentación técnica y funcional, y 
+un patrón proporcionará recomendaciones sobre cómo usarlo. Todos los elementos mencionados anteriormente serán útiles para 
+desarrollarlos y para ofrecer una experiencia consistente. Los componentes son como bloques. Como diseñador, puede usarlos en esquemas 
+y, también, directamente en el código. Hay que definir cómo funcionan y cómo interactúa un usuario con ellos. Los patrones son las 
+instrucciones de construcción que nos permiten utilizar estos componentes de forma lógica y uniforme en todos los productos. 
+
+
+Example of a component
+En cambio, un componente se especifica con documentación técnica y funcional, y un patrón proporcionará recomendaciones sobre cómo 
+usarlo.
+
+Conclusiones sobre los sistemas de diseño
+Los sistemas de diseño están formados por diversos componentes, como patrones, estilos y pautas, que pueden ayudar a optimizar los 
+diseños y hacerlos operativos. Sin embargo, son diseñados, gestionados y aplicados por personas. La escala y reproducción de los 
+proyectos y los recursos y el tiempo disponibles son los factores más importantes a tener en cuenta al desarrollar un sistema de diseño. 
+Cuando los sistemas de diseño están mal implementados y mantenidos, pueden convertirse en colecciones de componentes y código difíciles 
+de manejar; sin embargo, cuando se implementan correctamente, pueden educar a los miembros del equipo, agilizar el trabajo y permitir a 
+los diseñadores abordar problemas complejos de UX.
